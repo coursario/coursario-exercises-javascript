@@ -11,7 +11,7 @@ but in this chapter we focus only on a selected subset of them.
 
 The array functions of interest are:
 
-* [`Array.prototype.find` and `Array.prototype.findIndex`](chapters/array-functions/task-find-and-find-index)
+* [`Array.prototype.find` and `Array.prototype.findIndex`](task-find-and-find-index/)
 * `Array.prototype.forEach`
 * `Array.prototype.filter` and `Array.prototype.filter`
 * `Array.prototype.map`
