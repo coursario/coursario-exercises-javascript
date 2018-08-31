@@ -5,6 +5,6 @@ JavaScript and ECMAScript 6+.
 
 ## List of exercises
 
-* **JavaScript array functions**:
+* [**JavaScript array functions**](chapters/array-functions/):  
   Learn everything about the JavaScript array functions
   like `forEach`, `map`, `reduce` etc.
