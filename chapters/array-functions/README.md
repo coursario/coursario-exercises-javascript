@@ -11,7 +11,7 @@ but in this chapter we focus only on a selected subset of them.
 
 The array functions of interest are:
 
-* [`Array.prototype.find` and `Array.prototype.findIndex`](task-find-and-find-index/)
+* `Array.prototype.find` and `Array.prototype.findIndex`
 * `Array.prototype.forEach`
 * `Array.prototype.filter` and `Array.prototype.filter`
 * `Array.prototype.map`
@@ -22,3 +22,12 @@ The array functions of interest are:
 
 A complete list of all array functions can be found [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
+## Tasks
+
+In the following tasks you will learn how to use array functions
+in combination with each other or with other types.
+
+* [Filtering arrays](tasks/filtering-arrays/)
+* [Mapping arrays](tasks/mapping-arrays/)
+* [Transforming arrays - part 1](tasks/transforming-arrays-part-1/)
+* [Transforming arrays - part 2](tasks/transforming-arrays-part-2/)
